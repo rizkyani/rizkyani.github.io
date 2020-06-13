@@ -7,7 +7,6 @@
 
 # Site settings
 title:       Rizkyanikiki
-email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
