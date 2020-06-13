@@ -1,0 +1,7 @@
+---
+layout: post
+title: My blog post
+tags: [kiki]
+---
+
+Welcome to my blog post.
