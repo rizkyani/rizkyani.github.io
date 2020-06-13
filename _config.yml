@@ -10,11 +10,10 @@ title:       Rizkyanikiki
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         '' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
-instagram:   ''
-facebook:    ''
+instagram:   'https://www.instagram.com/rizkyanikiki/'
 
 markdown:  kramdown
 permalink: pretty
